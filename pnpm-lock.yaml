@@ -38,6 +38,9 @@ importers:
       hexo-theme-landscape:
         specifier: ^1.0.0
         version: 1.1.0
+      hexo-theme-reimu:
+        specifier: ^1.12.6
+        version: 1.12.6
 
 packages:
 
@@ -447,6 +450,9 @@ packages:
 
   hexo-theme-landscape@1.1.0:
     resolution: {integrity: sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==}
+
+  hexo-theme-reimu@1.12.6:
+    resolution: {integrity: sha512-WizLWSqhVb8YS9DdK/bkl2v4LvY0J7dqDB0z0MXev4xWCZ1daw8/C/BFo/GIreMk4+SOxv4Xb9p3OIsr3gASrg==}
 
   hexo-util@3.3.0:
     resolution: {integrity: sha512-YvGngXijE2muEh5L/VI4Fmjqb+/yAkmY+VuyhWVoRwQu1X7bmWodsfYRXX7CUYhi5LqsvH8FAe/yBW1+f6ZX4Q==}
@@ -1368,6 +1374,8 @@ snapshots:
       - supports-color
 
   hexo-theme-landscape@1.1.0: {}
+
+  hexo-theme-reimu@1.12.6: {}
 
   hexo-util@3.3.0:
     dependencies:
